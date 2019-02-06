@@ -229,11 +229,11 @@ textarea{
 
 .main-header:after{
     content: '';
-    top: 30px;
+    top: 8.7%;
     left: 25px;
     position: fixed;
     width: 35%;
-    height: 91%;
+    height: 82.5%;
     background:rgba(0,0,0,.3);
 }
 
